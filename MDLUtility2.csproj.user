@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>C:\Code\mdlutility2\MDLUtility2\publish\|publish\|C:\Users\Austin\Documents\Visual Studio 2008\Projects\MDLUtility2\MDLUtility2\publish\</PublishUrlHistory>
+    <InstallUrlHistory>http://mdlutility2.googlecode.com/svn/trunk/MDLUtility2/publish/|http://mdlutility2.googlecode.com/</InstallUrlHistory>
+    <SupportUrlHistory>http://myallegiance.googlepages.com/</SupportUrlHistory>
+    <UpdateUrlHistory>http://mdlutility2.googlecode.com/svn/trunk/MDLUtility2/publish/</UpdateUrlHistory>
+    <BootstrapperUrlHistory>
+    </BootstrapperUrlHistory>
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+    <ErrorReportUrlHistory>
+    </ErrorReportUrlHistory>
+  </PropertyGroup>
+</Project>
