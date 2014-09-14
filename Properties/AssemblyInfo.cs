@@ -9,7 +9,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyDescription("The Allegiance content tool")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Austin Harris")]
-[assembly: AssemblyProduct("MDL Utility 2")]
+[assembly: AssemblyProduct("MDL Inspect")]
 [assembly: AssemblyCopyright("Copyright ©  2008")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -32,5 +32,5 @@ using System.Runtime.InteropServices;
 // You can specify all the values or you can default the Build and Revision Numbers 
 // by using the '*' as shown below:
 // [assembly: AssemblyVersion("1.0.*")]
-[assembly: AssemblyVersion("1.00.*")]
-[assembly: AssemblyFileVersion("1.00.*")]
+[assembly: AssemblyVersion("1.01.*")]
+[assembly: AssemblyFileVersion("1.01.*")]

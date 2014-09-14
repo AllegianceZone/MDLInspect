@@ -9,7 +9,7 @@
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>MDLUtility2</RootNamespace>
-    <AssemblyName>MDLUtility2</AssemblyName>
+    <AssemblyName>MDLInspect</AssemblyName>
     <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ApplicationIcon>Resources\He-he.ico</ApplicationIcon>
@@ -23,7 +23,7 @@
     </FileUpgradeFlags>
     <OldToolsVersion>3.5</OldToolsVersion>
     <UpgradeBackupLocation />
-    <PublishUrl>C:\Code\mdlutility2\MDLUtility2\publish\</PublishUrl>
+    <PublishUrl>C:\mdlinspect\</PublishUrl>
     <Install>true</Install>
     <InstallFrom>Web</InstallFrom>
     <UpdateEnabled>true</UpdateEnabled>
@@ -33,16 +33,16 @@
     <UpdatePeriodically>false</UpdatePeriodically>
     <UpdateRequired>false</UpdateRequired>
     <MapFileExtensions>false</MapFileExtensions>
-    <InstallUrl>http://mdlutility2.googlecode.com/svn/trunk/MDLUtility2/publish/</InstallUrl>
+    <InstallUrl>http://cdn.allegiancezone.com/install/mdlinspect/</InstallUrl>
     <UpdateUrl>http://mdlutility2.googlecode.com/svn/trunk/MDLUtility2/publish/</UpdateUrl>
-    <SupportUrl>http://code.google.com/p/mdlutility2/</SupportUrl>
-    <ErrorReportUrl>http://code.google.com/p/mdlutility2/issues/list</ErrorReportUrl>
-    <ProductName>MDLUtility2</ProductName>
-    <PublisherName>Austin Harris</PublisherName>
+    <SupportUrl>http://forum.allegiancezone.com/category/tools/mdlinspect</SupportUrl>
+    <ErrorReportUrl>http://forum.allegiancezone.com/category/tools/mdlinspect</ErrorReportUrl>
+    <ProductName>MDL Inspect</ProductName>
+    <PublisherName>Allegiance Zone</PublisherName>
     <CreateWebPageOnPublish>true</CreateWebPageOnPublish>
     <WebPage>publish.htm</WebPage>
     <OpenBrowserOnPublish>false</OpenBrowserOnPublish>
-    <ApplicationRevision>7</ApplicationRevision>
+    <ApplicationRevision>12</ApplicationRevision>
     <ApplicationVersion>1.0.6.%2a</ApplicationVersion>
     <UseApplicationTrust>false</UseApplicationTrust>
     <CreateDesktopShortcut>true</CreateDesktopShortcut>
