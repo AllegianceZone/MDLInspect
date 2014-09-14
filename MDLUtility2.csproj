@@ -34,7 +34,7 @@
     <UpdateRequired>false</UpdateRequired>
     <MapFileExtensions>false</MapFileExtensions>
     <InstallUrl>http://cdn.allegiancezone.com/install/mdlinspect/</InstallUrl>
-    <UpdateUrl>http://mdlutility2.googlecode.com/svn/trunk/MDLUtility2/publish/</UpdateUrl>
+    <UpdateUrl>http://cdn.allegiancezone.com/install/mdlinspect/</UpdateUrl>
     <SupportUrl>http://forum.allegiancezone.com/category/tools/mdlinspect</SupportUrl>
     <ErrorReportUrl>http://forum.allegiancezone.com/category/tools/mdlinspect</ErrorReportUrl>
     <ProductName>MDL Inspect</ProductName>
@@ -42,7 +42,7 @@
     <CreateWebPageOnPublish>true</CreateWebPageOnPublish>
     <WebPage>publish.htm</WebPage>
     <OpenBrowserOnPublish>false</OpenBrowserOnPublish>
-    <ApplicationRevision>12</ApplicationRevision>
+    <ApplicationRevision>17</ApplicationRevision>
     <ApplicationVersion>1.0.6.%2a</ApplicationVersion>
     <UseApplicationTrust>false</UseApplicationTrust>
     <CreateDesktopShortcut>true</CreateDesktopShortcut>
