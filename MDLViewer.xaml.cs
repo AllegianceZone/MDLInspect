@@ -88,8 +88,7 @@ namespace MDLUtility2
             for (int itemindex = 0; itemindex < orderedMeshes.Count(); itemindex++)
             {
                 MDL.MDLObject item = meshes[itemindex];
-                if (item.lodval < 1
-                    && (item.textidx > -1 || orderedMeshes.Count() == 1 ))
+                 if (item.lodval < 1 || orderedMeshes.Count() == 1 )
                 {
                     MeshGeometry3D mesh = new MeshGeometry3D();
                     for (int i = 0; i < item.mesh.vertices.Count(); i++)
@@ -105,7 +104,7 @@ namespace MDLUtility2
                         mesh.TriangleIndices.Add(item.mesh.faces[i]);
                     }
 
-                    if (_textures.Count > 0)
+                    if (_textures.Count > 0)  0 && item.textidx > -1)
                     {
                         ImageBrush ib = new ImageBrush();
                         int textureIndex = item.textidx;
