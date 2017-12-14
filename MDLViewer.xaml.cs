@@ -104,7 +104,7 @@ namespace MDLUtility2
                         mesh.TriangleIndices.Add(item.mesh.faces[i]);
                     }
 
-                    if (_textures.Count > 0)  0 && item.textidx > -1)
+                    if (_textures.Count > 0 && item.textidx > -1)
                     {
                         ImageBrush ib = new ImageBrush();
                         int textureIndex = item.textidx;
