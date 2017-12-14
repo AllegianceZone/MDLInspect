@@ -411,7 +411,7 @@
             // 
             this.toolStripStatusLabel2.Name = "toolStripStatusLabel2";
             this.toolStripStatusLabel2.Size = new System.Drawing.Size(116, 17);
-            this.toolStripStatusLabel2.Text = "MDL Inspect by Astn";
+            this.toolStripStatusLabel2.Text = "MDL Inspect by Your_Persona";
             // 
             // toolStripStatusLabel1
             // 
